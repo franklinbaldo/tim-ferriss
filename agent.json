@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "cron": "0 9 * * 1",
-    "hint": "Research what's generating automated income for indie developers and solo builders this week. Audit Franklin's existing infrastructure (causaganha, baliza, verne, blogs, agents). Identify 3-5 concrete opportunities to generate revenue with minimal ongoing effort. Commit report to reports/YYYY-MM-DD-opportunities.md"
+    "cron": "0 9 * * *",
+    "hint": "Daily income automation scan. First: read franklinbaldo/franklin-avatar (SOUL.md, projects/, CONTEXT.md) to understand the full picture of what Franklin has. Then: research what's working for indie builders today (ProductHunt, IndieHackers, X/Twitter). Find 1-3 concrete actions Franklin can take to activate or expand a revenue stream from existing infrastructure. Commit to reports/YYYY-MM-DD.md"
   }
 }
